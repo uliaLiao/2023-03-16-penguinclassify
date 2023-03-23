@@ -5,6 +5,7 @@
 #' @param bill_length the length of bill in mm
 #' @param flipper_length the length of flipper in mm
 #'
+#'
 #' @export
 classify_penguin <- function(bill_length, flipper_length) {
   if (flipper_length>205) {
