@@ -8,6 +8,9 @@
 #'
 #' @export
 classify_penguin <- function(bill_length, flipper_length) {
+  if (is.na(bill_length)) {
+    return(NULL)
+  }
   if (flipper_length>205) {
     return("Gentoo")
   } else {
