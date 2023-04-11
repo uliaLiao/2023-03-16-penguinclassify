@@ -6,6 +6,8 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
+![](https://github.com/uliaLiao/2023-03-16-penguinclassify/actions/test-coverage.yaml/badge.svg)
+
 The goal of penguinclassify is to …
 
 ## Installation
